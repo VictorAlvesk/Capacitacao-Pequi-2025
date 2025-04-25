@@ -1,30 +1,3 @@
-# Repositório criado para Capacitação das ferramentas do Pequi Mecânico 2025
-## Objetivo
-O seguinte repositório visa a capacitação para o Núcleo de Robótica Pequi Mecânico  utilizando as principais ferramentes que serão usadas que serão usadas no dentro do núcleo.
-
-## Dependências(Semana 1):
-- Ubuntu;
-- Git e GitHub;
-- Docker;
-- ROS2;
-
-## Resultados:
-Ubuntu também foi instalado com sucesso, única dificuldade foi em aprender os comandos, contudo com o tempo foi ficando automático e consegui usá-lo até como Sistema Operacional principal.
-No caso foi instalado o Ubuntu 24.04 LTS.
-
-Git e GitHub consegui instalar e manipular sem muitas dificuldades, pois já tinha experiência, então obtive com tranquilidade.
-
-![Git e GitHub](src/Git.png)
-
-Docker foi necessário aprender com mais de 2 vídeos, aprofundar um pouco para compreender, pois houve dificuldades em  compreeender, contudo obtive sucesso e consegui compreender com tranquilidade.
-
-![Docker](src/Docker.png)
-
-O ROS2 foi enfrentado diversos problemas, como: a dificuldade em instalar o ROS2, pois era somente para  Ubuntu 22.04 LTS, então fiz um container contendo Ubuntu na versão 22.04, consegui instalar ROS2 e os demais arquivos necessários,
- contudo o arquivo estava muito lento, fazendo travar o terminal na hora de criar uma imagem, o que optei por reinstalar o Ubuntu na versão 22.04. Fiz a reinstalação do  SO e consegui instalar com tranquilidade o ROS2.
-
-![Versão do Ubuntu](src/ubuntuversao.png)
-![ROS2](src/ROS.png)
 # Capacitação das Ferramentas do Pequi Mecânico 2025
 
 ## Objetivo
